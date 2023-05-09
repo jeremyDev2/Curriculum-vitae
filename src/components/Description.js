@@ -7,8 +7,8 @@ function Description() {
   const DesParagraphs = [
     { text: "Junior разработчик" },
     { text: "· изучаю React 🌀" },
-    { text: "· Python 🐍" },
-    { text: "· щепотка Linux 🐧" },
+    { text: "· щепотка Python 🐍" },
+    { text: "· администрировал на Linux/Windows 🐧" },
     { text: "· щепотка C 🤌" },
     { text: "· люблю Computer Science 🖥" },
     { text: "· мечтаю научиться работать на Rust 😅 и Go 🦦" },
