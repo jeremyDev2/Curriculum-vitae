@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { ChakraProvider, ColorModeProvider, ColorModeScript, theme } from '@chakra-ui/react'
+import { ChakraProvider, ColorModeProvider } from '@chakra-ui/react'
 import { LayoutGroup } from 'framer-motion';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
