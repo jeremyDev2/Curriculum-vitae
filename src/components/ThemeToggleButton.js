@@ -1,5 +1,6 @@
 import { Button, useColorMode } from '@chakra-ui/react';
 import { useTheme } from '@emotion/react';
+import { MoonIcon, SunIcon } from '@chakra-ui/icons'
 
 function ThemeToggleButton() {
     const theme = useTheme();
@@ -9,7 +10,7 @@ function ThemeToggleButton() {
   
     return (
       <Button onClick={toggleColorMode}>
-        Toggle {colorMode === "light" ? darkColor : ligthColor}
+        <MoonIcon boxSize={4} />
       </Button>
     );
   }

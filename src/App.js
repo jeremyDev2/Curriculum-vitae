@@ -1,10 +1,9 @@
 import { ChakraProvider, ColorModeProvider } from '@chakra-ui/react';
-import './App.css';
 import ThemeToggleButton from './components/ThemeToggleButton';
-import Navigation from './components/Navigation';
+import Navigation from './components/navigation';
 import Description from './components/Description';
-function App() {
 
+function App() {
   return (
     <div className="App">
       <ColorModeProvider>
