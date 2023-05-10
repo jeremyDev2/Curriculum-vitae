@@ -1,5 +1,4 @@
 import { Box, Heading } from '@chakra-ui/react';
-import { color } from 'framer-motion';
 
 
 function Description() {
