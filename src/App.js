@@ -1,6 +1,6 @@
 import ThemeToggleButton from './components/ThemeToggleButton';
 import Navigation from './components/navigation';
-import Description from './components/Description';
+import Description from './components/description';
 
 function App() {
   return (
