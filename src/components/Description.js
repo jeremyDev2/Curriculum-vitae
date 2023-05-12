@@ -9,7 +9,7 @@ function Description() {
     { text: "· администрировал на Linux/Windows 🐧" },
     { text: "· щепотка C 🤌" },
     { text: "· люблю Computer Science 🖥" },
-    { text: "· мечтаю научиться работать на Rust 😅 и Go 🦦" },
+    { text: "· мечтаю научиться работать на Rust 🦀 и Go 🦦" },
   ];
 
 
