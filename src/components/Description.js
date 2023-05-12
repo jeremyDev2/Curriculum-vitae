@@ -1,6 +1,5 @@
 import { Box, Heading } from '@chakra-ui/react';
 
-
 function Description() {
 
   const DesParagraphs = [
@@ -25,12 +24,6 @@ function Description() {
             </p>
           ))}
         </Heading>
-
-        <Box>
-          <p>
-             
-          </p>
-        </Box>
       </Box>
     </Box>
   );
