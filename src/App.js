@@ -1,6 +1,6 @@
 import ThemeToggleButton from './components/ThemeToggleButton';
-import Navigation from './components/navigation';
-import Description from './components/description';
+import Navigation from './components/Navigation';
+import Description from './components/Description';
 import Section from './components/section';
 import { Heading } from '@chakra-ui/react';
 import Vitae from './components/sectionText';
