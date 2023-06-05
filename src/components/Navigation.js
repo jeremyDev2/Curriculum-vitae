@@ -16,11 +16,9 @@ function Navigation() {
         </Link>
 
 
-
         <Link href='https://www.linkedin.com/in/dan-malaiev-186b81254/' isExternal color="#0e76a8">
           Linkedin <ExternalLinkIcon w={5}/>
         </Link>
-
 
 
         <Link href='mailto:daniil.malaev3@gmail.com' isExternal color="#BB001B">
@@ -37,7 +35,6 @@ function Navigation() {
         <Link href='https://t.me/war_consular' isExternal color="#0088CC">
           Telegram<ExternalLinkIcon w={5}/> 
         </Link>
-
 
 
       </Box>
