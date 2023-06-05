@@ -4,11 +4,19 @@ import Description from './components/Description';
 import Section from './components/section';
 import { Heading } from '@chakra-ui/react';
 import Vitae from './components/sectionText';
-import "./App.css"
 
 function App() {
+  const shadowStyle = () => 
+  {
+    const inputStyles = 
+    {
+      outline: 'none',
+      boxShadow: 'none'
+    };
+  };
+
   return (
-    <div className="App">
+    <div className="App" style={{shadowStyle}}>
           <ThemeToggleButton />
           <Navigation />
           <Description />
