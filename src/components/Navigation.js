@@ -17,7 +17,7 @@ function Navigation() {
             </Link>
           </BreadcrumbItem>
 
-          <BreadcrumbItem display="flex" >
+          <BreadcrumbItem  >
             <Link href='https://www.linkedin.com/in/dan-malaiev-186b81254/' isExternal color="#0e76a8">
               Linkedin
             </Link>
