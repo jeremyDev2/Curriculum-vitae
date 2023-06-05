@@ -6,21 +6,12 @@ import { Heading } from '@chakra-ui/react';
 import Vitae from './components/sectionText';
 
 function App() {
-  const shadowStyle = () => 
-  {
-    const inputStyles = 
-    {
-      outline: 'none',
-      boxShadow: 'none'
-    };
-  };
-
   return (
-    <div className="App" style={{shadowStyle}}>
+    <div className="App">
           <ThemeToggleButton />
           <Navigation />
           <Description />
-          <Section delay={0.1}><Heading>Bio:</Heading></Section>
+          <Section delay={0.2}><Heading>Bio:</Heading></Section>
           <Vitae />
     </div>
   );
