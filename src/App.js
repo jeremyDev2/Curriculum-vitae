@@ -4,6 +4,7 @@ import Description from './components/Description';
 import Section from './components/section';
 import { Heading } from '@chakra-ui/react';
 import Vitae from './components/sectionText';
+import "./App.css"
 
 function App() {
   return (
