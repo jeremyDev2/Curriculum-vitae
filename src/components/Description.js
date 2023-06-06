@@ -6,9 +6,9 @@ function Description() {
     { text: "Junior разработчик" },
     { text: "· изучаю React 🌀" },
     { text: "· щепотка Python 🐍" },
-    { text: "· администрировал на Linux/Windows 🐧" },
     { text: "· щепотка C 🤌" },
     { text: "· люблю Computer Science 🖥" },
+    { text: "· администрировал на Linux/Windows 🐧" },
     { text: "· мечтаю научиться работать на Rust 🦀 и Go 🦦" },
   ];
 

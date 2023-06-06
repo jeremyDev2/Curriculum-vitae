@@ -20,7 +20,7 @@ function App() {
           <ThemeToggleButton />
           <Navigation />
           <Description />
-          <Section delay={0.1}><Heading>Bio:</Heading></Section>
+          <Section delay={0.2} shadowStyle><Heading>Bio:</Heading></Section>
           <Vitae />
     </div>
   );
