@@ -7,7 +7,7 @@ function Navigation() {
   const textColor = useColorModeValue('gray.100', 'gray.800');
 
   return (
-    <Container>
+    <Container mt={14}>
       <Box id='navBox' display="flex" justifyContent="space-between" borderRadius="lg" bg="#323135" p={4} mb={6} color={colorMode === 'light' ? textColor : ''} >
 
 

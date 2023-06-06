@@ -5,7 +5,7 @@ function ThemeToggleButton() {
   const {colorMode, toggleColorMode } = useColorMode();
 
   return (
-    <Button onClick={toggleColorMode} ml={4} mt={4}>
+    <Button onClick={toggleColorMode} ml={4} position="fixed">
       { colorMode === 'light' ? 
       (<MoonIcon boxSize={4} />) : (<SunIcon boxSize={4} />)
       }
