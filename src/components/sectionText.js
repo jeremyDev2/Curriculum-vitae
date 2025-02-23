@@ -138,7 +138,6 @@ quasi aliquam eligendi, placeat qui corporis!</p>
                             </AccordionButton>
                         </h2>
                         <AccordionPanel pb={4} fontStyle="italic">
-                            <p>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
 molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
 numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
@@ -193,7 +192,7 @@ fugiat, dolorum eligendi quam cupiditate excepturi mollitia maiores labore
 suscipit quas? Nulla, placeat. Voluptatem quaerat non architecto ab laudantium
 modi minima sunt esse temporibus sint culpa, recusandae aliquam numquam 
 totam ratione voluptas quod exercitationem fuga. Possimus quis earum veniam 
-quasi aliquam eligendi, placeat qui corporis!</p></p>
+quasi aliquam eligendi, placeat qui corporis!</p>
                         </AccordionPanel>
                     </AccordionItem>
                 </Accordion>
